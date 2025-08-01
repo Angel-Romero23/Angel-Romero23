@@ -2,15 +2,42 @@
 
 Soy un desarrollador apasionado por la tecnología y la resolución de problemas con código. Actualmente me enfoco en desarrollo web y backend, usando herramientas modernas como PHP y Spring Boot.
 
-## 💻 Tecnologías y herramientas que uso
+---
 
-- ⚙️ Spring Boot (Java)
-- 🐘 PHP
-- 🐬 MySQL / PostgreSQL
-- 🌐 HTML, CSS, JavaScript
-- 🔧 Git & GitHub
-- ☁️ APIs REST
-- 🐳 Docker (en progreso)
+## 🖥️ Lenguajes de Programación
+
+- ☕ **Java** (Spring, Spring Boot, MVC, Quarkus, JSP, Maven, Microservicios)
+- 🐘 **PHP**
+- ⚡ **JavaScript** (Nuxt.js 3, Node.js, Express.js)
+- 🌐 **HTML5**
+- 🎨 **CSS**
+
+---
+
+## 🗃️ Bases de Datos
+
+- 🐘 **PostgreSQL**
+- 🐬 **MySQL**
+- 🪶 **Oracle**
+
+---
+
+## 🧑‍💻 Sistemas Operativos
+
+- 🐧 **Linux** (Red Hat)
+- 🪟 **Windows**
+- 🍎 **macOS**
+
+---
+
+## 🛠️ Herramientas y Servidores
+
+- 🧱 **JBoss**
+- 🐺 **WildFly**
+- 🌍 **GeoServer**
+- 🐳 **Docker**
+- ☸️ **Kubernetes**
+- ⚙️ **Jenkins**
 
 ## 📈 GitHub Stats
 
