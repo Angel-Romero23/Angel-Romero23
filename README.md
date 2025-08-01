@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Ángel de Jesús Romero
 
-<!--
-**Angel-Romero23/Angel-Romero23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la tecnología y la resolución de problemas con código. Actualmente me enfoco en desarrollo web y backend, usando herramientas modernas como PHP y Spring Boot.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías y herramientas que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ Spring Boot (Java)
+- 🐘 PHP
+- 🐬 MySQL / PostgreSQL
+- 🌐 HTML, CSS, JavaScript
+- 🔧 Git & GitHub
+- ☁️ APIs REST
+- 🐳 Docker (en progreso)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angel-Romero23&show_icons=true&theme=radical)
+
+## 📫 Contacto
+
+- 📧 angelrosas2215@gmail.com 
+- 💼 Linkedin: https://www.linkedin.com/in/angel-rosas-428a40194
