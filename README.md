@@ -6,38 +6,40 @@ Soy un desarrollador apasionado por la tecnología y la resolución de problemas
 
 ## 🖥️ Lenguajes de Programación
 
-- ☕ **Java** (Spring, Spring Boot, MVC, Quarkus, JSP, Maven, Microservicios)
-- 🐘 **PHP**
-- ⚡ **JavaScript** (Nuxt.js 3, Node.js, Express.js)
-- 🌐 **HTML5**
-- 🎨 **CSS**
+- ☕ **Java** (Spring, Spring Boot, MVC, Quarkus, JSP, Maven, Microservicios) – ⭐⭐⭐⭐✰
+- 🐘 **PHP** – ⭐⭐⭐⭐✰
+- ⚡ **JavaScript** (Nuxt.js 3, Node.js, Express.js) – ⭐⭐⭐✰✰
+- 🌐 **HTML5** – ⭐⭐⭐⭐✰
+- 🎨 **CSS** – ⭐⭐⭐⭐✰
 
 ---
 
 ## 🗃️ Bases de Datos
 
-- 🐘 **PostgreSQL**
-- 🐬 **MySQL**
-- 🪶 **Oracle**
+- 🐘 **PostgreSQL** – ⭐⭐⭐⭐✰  
+- 🐬 **MySQL** – ⭐⭐⭐⭐✰  
+- 🪶 **Oracle** – ⭐⭐⭐✰✰
 
 ---
 
 ## 🧑‍💻 Sistemas Operativos
 
-- 🐧 **Linux** (Red Hat)
-- 🪟 **Windows**
-- 🍎 **macOS**
+- 🐧 **Linux (Red Hat)** – ⭐⭐⭐⭐✰  
+- 🪟 **Windows** – ⭐⭐⭐⭐✰  
+- 🍎 **macOS** – ⭐⭐⭐⭐✰
 
 ---
 
 ## 🛠️ Herramientas y Servidores
 
-- 🧱 **JBoss**
-- 🐺 **WildFly**
-- 🌍 **GeoServer**
-- 🐳 **Docker**
-- ☸️ **Kubernetes**
-- ⚙️ **Jenkins**
+- 🧱 **JBoss** – ⭐⭐⭐⭐⭐  
+- 🐺 **WildFly** – ⭐⭐⭐⭐⭐  
+- 🌍 **GeoServer** – ⭐⭐⭐⭐✰  
+- 🐳 **Docker** – ⭐⭐⭐✰✰  
+- ☸️ **Kubernetes** – ⭐⭐✰✰✰  
+- ⚙️ **Jenkins** – ⭐⭐✰✰✰
+
+---
 
 ## 📈 GitHub Stats
 
